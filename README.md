@@ -1,4 +1,4 @@
-# Custom Apache Ignite Dcoker Image
+# Custom Apache Ignite Docker Image
 
 Minimized alpine based Apache Ignite Docker image with arm64 and amd64 architecture support.
 
